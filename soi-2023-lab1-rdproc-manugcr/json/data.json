@@ -1,0 +1,10 @@
+{
+	"ModelName":	"Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz",
+	"VendorID":	"GenuineIntel",
+	"Kernel":	"5.15.0-84-generic",
+	"Cores":	2,
+	"Threads":	4,
+	"Uptime":	"00:04:04:48",
+	"Filesystems":	["sysfs", "tmpfs", "bdev", "proc", "cgroup", "cgroup2", "cpuset", "devtmpfs", "configfs", "debugfs", "tracefs", "securityfs", "sockfs", "bpf", "pipefs", "ramfs", "hugetlbfs", "devpts", "ext3", "ext2", "ext4", "squashfs", "vfat", "ecryptfs", "fuseblk", "fuse", "fusectl", "efivarfs", "mqueue", "pstore", "btrfs", "autofs", "zfs", "binfmt_misc"],
+	"Partitions":	["sda", "sda1", "sdb", "sdb1", "sdb2", "sdb3", "sdb4", "sdb5"]
+}

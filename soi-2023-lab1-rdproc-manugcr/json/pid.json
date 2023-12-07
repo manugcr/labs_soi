@@ -1,0 +1,7 @@
+{
+	"PID":	"1995",
+	"Resource":	"Max open files",
+	"Soft Limit":	"1024",
+	"Hard Limit":	"1048576",
+	"Units":	"files"
+}

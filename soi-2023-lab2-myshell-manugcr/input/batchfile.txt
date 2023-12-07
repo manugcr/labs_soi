@@ -1,0 +1,7 @@
+echo START_BATCHFILE
+echo START_BATCHFILE
+
+ps aux | grep "manu" | awk '{print $1, $11}' | sort | uniq | sed 's/^/Prefix_/' | grep "Prefix"
+
+echo END_BATCHFILE
+echo END_BATCHFILE
